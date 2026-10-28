@@ -1,0 +1,2000 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Pages /Count 39 /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R] >>
+endobj
+4 0 obj
+<< /Length 1477 >>
+stream
+0.071 0.204 0.184 rg
+0 0 595 842 re f
+0.090 0.282 0.247 rg
+405 0 190 842 re f
+0.38 0.68 0.53 RG 0.8 w 374 490 208 208 re S
+0.38 0.68 0.53 RG 0.8 w 399 515 158 158 re S
+0.38 0.68 0.53 RG 0.8 w 424 540 108 108 re S
+0.608 0.878 0.745 rg BT /F2 10 Tf 65.0 744.0 Td (DETAILED PROJECT REPORT) Tj ET
+0.957 0.984 0.969 rg BT /F2 48 Tf 65.0 674.0 Td (SpendSmart) Tj ET
+0.725 0.906 0.816 rg BT /F1 16 Tf 65.0 628.0 Td (FULL-STACK PERSONAL FINANCE APPLICATION) Tj ET
+0.412 0.831 0.627 rg
+65 588 76 5 re f
+0.886 0.945 0.914 rg BT /F1 13.5 Tf 65.0 545.0 Td (A comprehensive guide to the project) Tj ET
+0.886 0.945 0.914 rg BT /F1 13.5 Tf 65.0 524.0 Td (goals, user experience, application) Tj ET
+0.886 0.945 0.914 rg BT /F1 13.5 Tf 65.0 503.0 Td (behavior, data design, API, setup,) Tj ET
+0.886 0.945 0.914 rg BT /F1 13.5 Tf 65.0 482.0 Td (constraints, and future development.) Tj ET
+0.608 0.878 0.745 rg BT /F2 9 Tf 65.0 427.0 Td (PROJECT REPORT INCLUDES) Tj ET
+0.125 0.325 0.275 rg
+0.357 0.573 0.486 RG 0.7 w 65 390 180 27 re B
+0.847 0.933 0.890 rg BT /F1 9 Tf 77.0 399.0 Td (React 19 + Vite) Tj ET
+0.125 0.325 0.275 rg
+0.357 0.573 0.486 RG 0.7 w 65 351 180 27 re B
+0.847 0.933 0.890 rg BT /F1 9 Tf 77.0 360.0 Td (Express + Node.js) Tj ET
+0.125 0.325 0.275 rg
+0.357 0.573 0.486 RG 0.7 w 65 312 180 27 re B
+0.847 0.933 0.890 rg BT /F1 9 Tf 77.0 321.0 Td (MongoDB + Mongoose) Tj ET
+0.678 0.820 0.749 rg BT /F1 9 Tf 65.0 60.0 Td (Prepared from the SpendSmart repository | October 2026) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2655 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (CONTENTS / 39 PAGES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (A guide to the project) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (This report documents the current SpendSmart implementation. Each chapter focuses on) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (one area so the product and technical decisions can be reviewed independently.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Chapters 01-09) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Executive summary; abstract; context; goals and scope; users; requirements; quality) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (attributes; feature map; navigation and experience.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Chapters 10-18) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Dashboard; transactions; categories; budgets; reports; calculations; client) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (architecture; routing and state; shared modules.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Chapters 19-27) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Server architecture; API conventions; resource endpoints; report aggregation; data) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (models; validation; privacy and security.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Chapters 28-36) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Responsive experience; installation; configuration; demo scenarios; verification) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (plan; errors; limitations; roadmap; conclusion and glossary.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Implementation descriptions are based on the source files and README. The report) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (distinguishes current behavior from suggested future work.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (02 / 39) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2696 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (01 / EXECUTIVE SUMMARY) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (SpendSmart in one view) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (SpendSmart is a personal finance tracker for capturing income and expenses, organizing) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (them into categories, planning monthly limits, and reviewing activity over time.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Core value) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (It gives one user a consistent workflow from recording a transaction to seeing its) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (effect in monthly totals, category summaries, and budget progress.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Product areas) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (The application has five main destinations: Overview, Transactions, Budgets,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (Categories, and Reports.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Technology) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The client uses React 19, Vite, React Router, Tailwind CSS, Recharts, Lucide React,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (and Axios. The server uses Node.js, Express, and Mongoose with MongoDB.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Current boundary) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (This is a single personal workspace. There is no login, authorization, or per-user) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (data separation, so the current build is not intended for untrusted public use.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (At a high level, the product turns records into summaries. Its accuracy depends on the user) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (entering complete and consistent information.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (03 / 39) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2726 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (02 / ABSTRACT) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Purpose and implementation summary) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (This project demonstrates a compact full-stack web application built around personal) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (finance tracking. A browser interface calls a REST API; the API validates requests and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 686.0 Td (stores records in MongoDB.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 572 475 84 re B
+0.271 0.675 0.486 rg
+60 572 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 632.0 Td (Problem addressed) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (People can have many individual purchases and income events without a clear picture) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 597.0 Td (of monthly cash flow or category-level spending.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 478 475 84 re B
+0.271 0.675 0.486 rg
+60 478 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 538.0 Td (Approach) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (SpendSmart combines transaction CRUD, custom categories, category budgets, a monthly) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 503.0 Td (dashboard, and server-generated reporting.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 384 475 84 re B
+0.271 0.675 0.486 rg
+60 384 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 444.0 Td (Methods) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (React components organize the interface into pages. Express routes expose resources.) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 409.0 Td (Mongoose schemas define validation and persistence.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 290 475 84 re B
+0.271 0.675 0.486 rg
+60 290 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 350.0 Td (Result) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (A working project structure and feature set suitable for a class demonstration,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 315.0 Td (local experimentation, and further development.) Tj ET
+0.914 0.957 0.929 rg
+60 234 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 261.0 Td (This abstract describes implemented features, not an evaluated production system. No) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (performance or user-study results are claimed.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (04 / 39) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2592 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (03 / CONTEXT AND PROBLEM) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Why organize personal finance activity) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (A transaction list is useful for bookkeeping, but it becomes more useful when a person) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (can group, compare, and interpret the entries.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Scattered records) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Information kept in separate notes or remembered from memory is difficult to total) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (consistently at month end.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Limited context) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (A single purchase amount does not show how a category is accumulating or how it) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (compares with an earlier month.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Need for structure) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Common fields such as date, amount, type, title, and category provide a repeatable) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (way to record financial activity.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Project response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (SpendSmart stores records centrally for the local application and uses the same) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (records to support summaries and charts.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The project focuses on personal tracking and awareness. It does not connect to banks, import) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (statements, or provide regulated financial advice.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (05 / 39) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2703 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (04 / GOALS, SCOPE, AND ASSUMPTIONS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Define a manageable product boundary) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The feature set is deliberately focused: a single user manages their own records and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (reviews those records by month.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Primary goals) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Make entry simple, support useful organization, show progress against limits, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (create clear monthly summaries.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Included scope) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Transaction create/read/update/delete; search and filters; categories; monthly) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (budgets; dashboard metrics; monthly reports; local setup.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Assumptions) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The user supplies correct transaction data, uses a supported modern browser, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (configures a reachable MongoDB database.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 290 475 99 re B
+0.271 0.675 0.486 rg
+60 290 4 99 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Excluded scope) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Authentication, multiple profiles, bank feeds, automatic recurring entries,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (attachments, notifications, tax filing, and deployment operations are not) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 315.0 Td (implemented.) Tj ET
+0.914 0.957 0.929 rg
+60 234 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 261.0 Td (Scope boundaries help explain why the application is appropriate as a project demonstration) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (while still needing work before broader deployment.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (06 / 39) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2525 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (05 / USERS AND USE CASES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Designed for a personal workspace) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The primary user is an individual who wants to record everyday money activity and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (review a monthly picture without a complex accounting workflow.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Record an expense) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Enter a title, positive amount, expense type, category, date, and optional) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (description.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Record income) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Use the same transaction form with income type and an income category to include) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (incoming funds in totals.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Plan a category) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Set a budget amount for a category and month, then compare the recorded expenses) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (with that limit.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Review a period) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Choose a month and inspect net cash flow, income, expenses, category distribution,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (and recent expense history.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (A useful class demo follows these use cases in sequence so the audience sees how each screen) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (relies on the same underlying records.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (07 / 39) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 2608 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (06 / FUNCTIONAL REQUIREMENTS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (What the application should do) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The implemented requirements can be described as user-visible capabilities and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (corresponding system responses.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Transactions) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (List records; create valid entries; update an entry; delete an entry; search title,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (category, and description; filter by type and month.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Budgets) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Create a category and month limit; list limits for a selected month; show spent,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (planned, remaining, and percentage used; edit and delete a limit.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Categories) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Show built-in and custom category labels; filter by income or expense; create custom) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (labels; block deletion when linked records exist.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Reports and status) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Calculate monthly totals, previous-month totals, category summaries, a six-month) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (trend, and API/database health status.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The screens provide feedback during loading and on common request failures. Data is retrieved) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (from the configured backend API.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (08 / 39) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 2672 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (07 / QUALITY ATTRIBUTES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Qualities that shape the experience) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Beyond features, the implementation includes several design choices that support) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (clarity, maintainability, and predictable handling of common inputs.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Usability) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (The navigation labels are direct; page headers describe each area; empty states,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (progress indicators, alerts, and retry actions communicate state.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Maintainability) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Pages, shared components, service helpers, finance utilities, route handlers, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (data models are kept in separate modules.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Responsiveness) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The application layout changes navigation and content grids across viewport) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (breakpoints using Tailwind and custom styling.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Data correctness) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Server-side validation and Mongoose validators protect key fields. Unique indexes) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (prevent duplicate month/category budgets and duplicate typed categories.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (These qualities describe implementation intent and observed source structure; they are not) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (claims of formal usability or load testing.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (09 / 39) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 2570 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (08 / FEATURE MAP) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (How the major areas work together) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The product has five main pages, shared layout components, a client service layer,) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (four API resource groups, and three persisted record types.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Capture layer) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Transactions are the primary activity records; built-in or custom categories label) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (them as income or expense.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Planning layer) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Budgets pair a category with a YYYY-MM month and positive amount. Category names) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (connect the plan to expense records.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Insight layer) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The Overview summarizes current selections; Reports aggregates a chosen month and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (provides a six-month expense series.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Infrastructure) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Axios sends requests to Express. Express routes use Mongoose models and MongoDB; a) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (shared error handler formats failures.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The pages are not separate databases: each summary is derived from transaction, category, and) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (budget data maintained by the API.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (10 / 39) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 2593 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (09 / NAVIGATION AND EXPERIENCE) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (A consistent shell across pages) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (React Router declares the application routes, while AppLayout supplies a shared) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (navigation shell and renders the active page inside its outlet.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Primary navigation) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (The sidebar links to Overview, Transactions, Budgets, Categories, and Reports. On) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (small screens, navigation becomes a compact horizontal row.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Route behavior) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (The root path opens the dashboard. Unknown paths redirect to the root. Page) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (components are loaded lazily.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Page headers) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (PageHeader gives each view an eyebrow, title, description, and space for page-level) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (actions or month controls.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Shared visual language) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (MetricCard presents a label, value, helper line, and tone-colored icon within a) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (consistent card layout.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (A shared shell lowers navigation friction and makes each feature feel like part of one) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (product rather than a set of unrelated forms.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (11 / 39) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 2614 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (10 / OVERVIEW DASHBOARD) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Read the selected month quickly) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The dashboard fetches transactions and budgets, then derives its current-month totals) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (and visual summaries in the browser.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Month selector) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (A native month input controls the selected month. Changing the month reloads the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (corresponding monthly budget list.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Headline metrics) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (The page shows net cash flow, income, expenses, and the combined budget limit across) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (the selected month's budgets.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Budget check-in) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The top three budgets by percentage used are shown with progress bars, amounts, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (a limit-reached message at 100 percent or more.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Visual and recent activity) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Expense activity is grouped for a six-month trend and by category for the selected) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (month; the page also surfaces recent transactions.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The dashboard derives totals from all fetched transactions on the client. It requires a) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (working API response and a usable date on each record.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (12 / 39) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 2636 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (11 / TRANSACTION MANAGEMENT) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (The source records behind every summary) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Transactions are the central data records. The page combines summary cards, filters,) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (an editable form, and a date-sorted history.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Fields) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (A transaction contains title, amount, type, category, date, and optional) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (description. The UI initializes new entries as expenses.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Create and edit) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (The form checks for a non-empty title and a positive finite amount before sending.) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (Editing pre-populates fields from the selected record.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Search and filter) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Search matches title, category, and description without case sensitivity. Type and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (month filters can be combined.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Delete and refresh) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Deletion requires a browser confirmation. After create, edit, or delete, the client) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (reloads transactions and category options.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The server returns transaction rows sorted by descending date and identifier. The current) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (endpoint returns the entire collection without pagination.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (13 / 39) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 2502 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (12 / CATEGORIES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Use meaningful labels for grouping) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The category page combines built-in labels from the frontend utility with custom) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (category records fetched from MongoDB.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Built-in expense labels) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Food, Travel, Shopping, Education, Bills, Entertainment, Health, and Other are) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (available in the client.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 508 475 69 re B
+0.271 0.675 0.486 rg
+60 508 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Built-in income labels) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Salary, Freelance, Business, Gift, and Other are available in the client.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 414 475 84 re B
+0.271 0.675 0.486 rg
+60 414 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 474.0 Td (Custom labels) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 454.0 Td (A custom category stores a name, an income/expense type, and a generated normalized) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (key. Category names are limited to 80 characters.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 320 475 84 re B
+0.271 0.675 0.486 rg
+60 320 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 380.0 Td (Safe removal) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 360.0 Td (The UI lets users add and delete custom labels. The API blocks a delete or edit when) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (transactions or budgets reference the category name.) Tj ET
+0.914 0.957 0.929 rg
+60 264 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 291.0 Td (Built-in categories are not stored as Category documents in this implementation. Custom) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 279.0 Td (category identity is based on type plus normalized name.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (14 / 39) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 2628 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (13 / MONTHLY BUDGETS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Put planned category limits beside) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (actuals) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (A budget is scoped to one category and one month. Budget progress is calculated by) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (adding matching expense transactions for that month.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Budget form) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (Choose a category, YYYY-MM month, and positive amount. The UI offers built-in and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (custom expense category choices.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (Progress) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (For each budget, the page compares planned amount with category spending and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (displays a percentage and progress bar.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Summary metrics) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (The page sums planned amounts across budgets, sums spending for budgeted categories,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (and derives a combined remaining amount.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (Lifecycle) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (Budgets can be created, edited, and deleted. A unique database index allows only one) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (budget per category/month pair.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (Budgets are a tracking and planning feature. They do not block a transaction from being) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (recorded when spending exceeds the limit.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (15 / 39) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 2571 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (14 / MONTHLY REPORTS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Server-generated comparisons and charts) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Reports calls GET /api/reports/monthly with a selected YYYY-MM value and displays) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (aggregated totals, comparisons, expense categories, and trend data.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Summary cards) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Income, expenses, net cash flow, and transaction count are shown alongside) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (comparisons with the previous month.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Expense trend) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (A bar chart covers the selected month and five prior months, including months with) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (no recorded expenses.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Category share) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (A pie chart and list show category expense amounts for the selected month, ordered) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (from largest amount down.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Empty and failure states) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (No-history messages appear when there is no data. Request errors show an explanation) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (and a retry action.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The report endpoint uses MongoDB aggregation pipelines for totals and grouped records, rather) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (than requiring the UI to calculate the report.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (16 / 39) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 2632 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (15 / CALCULATIONS AND INTERPRETATION) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (How reported amounts are derived) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The project uses straightforward arithmetic to make summaries explainable. The) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (calendar month is treated as the reporting period.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Net cash flow) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (For a selected month, net is income minus expenses. It may be positive, zero, or) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (negative depending on saved records.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Category totals) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Expense records are grouped by their category string; transaction count and summed) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (amount are calculated for each group.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Budget usage) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Percentage used is rounded from spent divided by limit times 100. Progress bar width) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (is capped visually at 100 percent.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Month comparison) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (The report labels the percentage change relative to previous-month value. When the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (previous value is zero it shows new activity or no change.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Summaries inherit the accuracy and category consistency of entered records. A missing) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (transaction will change every derived figure that depends on it.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (17 / 39) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 2578 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (16 / FRONTEND ARCHITECTURE) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (A modular React client) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The frontend is organized around route-level pages and reusable components, with API) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (requests and finance formatting isolated from page markup.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (App entry) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (App.jsx declares routes and uses React Suspense to show a page loader while lazy) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (page modules are imported.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Layout) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (AppLayout renders the fixed/compact navigation and outlet for the selected page.) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (PageHeader and MetricCard are shared UI elements.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Page modules) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Dashboard, Transactions, Budgets, Categories, and Reports each own their data) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (loading, local state, and user interactions.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Styling and visuals) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Tailwind CSS 4 and custom CSS provide the layout; Recharts draws data visuals and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (Lucide React provides interface icons.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The modular structure helps keep page-specific behavior close to its page while maintaining) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (consistency through shared components.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (18 / 39) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 2483 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (17 / ROUTING, STATE, AND REQUEST LIFECYCLE) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (From route load to refreshed view) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Pages use React hooks to track current data and interface state. API requests update) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (page state and trigger React rendering.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 602 475 69 re B
+0.271 0.675 0.486 rg
+60 602 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Route entry) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (React Router matches a URL and renders its lazy-loaded page inside the app layout.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 508 475 84 re B
+0.271 0.675 0.486 rg
+60 508 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 568.0 Td (Loading) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 548.0 Td (Pages set initial loading state, request the required data, then render a loader) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (until the request completes.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 414 475 84 re B
+0.271 0.675 0.486 rg
+60 414 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 474.0 Td (Data state) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 454.0 Td (useState holds fetched records, filters, selected month, form values, error) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (messages, and saving flags.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 320 475 84 re B
+0.271 0.675 0.486 rg
+60 320 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 380.0 Td (Refresh after mutation) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 360.0 Td (After create/update/delete operations, affected pages request current records again) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (so displayed totals and lists stay aligned.) Tj ET
+0.914 0.957 0.929 rg
+60 264 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 291.0 Td (The client uses Promise.all for related independent reads in several views. A failed request) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 279.0 Td (is surfaced through page-level error feedback.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (19 / 39) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 2587 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (18 / SHARED CLIENT MODULES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Reusable requests and finance helpers) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The API service and finance utility reduce repeated plumbing and formatting logic) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (across the route pages.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Axios client) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (The base URL is VITE_API_URL when configured; otherwise it uses) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (http://localhost:5000/api. JSON is the request content type.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Resource helpers) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Named functions wrap GET, POST, PUT, and DELETE calls for transactions, budgets, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (categories, plus monthly report retrieval.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Currency) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (formatCurrency uses Intl.NumberFormat with the en-IN locale and INR currency, with a) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (configurable maximum fraction digit count.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Date helpers) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Utilities format month and date labels, derive YYYY-MM keys, and create date-input) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (values with local timezone handling.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The helper layer gives screens a consistent request pattern while still allowing each page to) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (decide how to present and recover from an error.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (20 / 39) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 2600 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (19 / BACKEND ARCHITECTURE) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (An Express API connected to MongoDB) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (server.js loads environment variables, configures middleware, defines health and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (welcome routes, mounts resource routers, and connects MongoDB before listening.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Middleware) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (CORS uses CLIENT_ORIGIN when set, supporting comma-separated origins; otherwise the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (local Vite origin is allowed. JSON request bodies are parsed.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Resource routes) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Four route modules handle transactions, budgets, categories, and monthly reports) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (under /api.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Database startup) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The server requires MONGODB_URI and waits for mongoose.connect before starting the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (HTTP listener.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Shared errors) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Unknown paths return a JSON 404. Validation, cast, and explicit 400 failures return) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (a client error; unexpected failures return a generic 500.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The API logs failure messages on the server and avoids exposing unexpected internal error) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (details in the response body.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (21 / 39) Tj ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 2482 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (20 / API CONVENTIONS AND RESPONSES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Predictable JSON resource communication) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The routes use JSON responses and a common success-oriented response shape for) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (successful operations.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (List response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Collection routes return success, count, and data fields. Transaction and budget) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (lists use deterministic sorting.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 508 475 69 re B
+0.271 0.675 0.486 rg
+60 508 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Create response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (A successful create returns HTTP 201 and the created record under data.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 414 475 84 re B
+0.271 0.675 0.486 rg
+60 414 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 474.0 Td (Update response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 454.0 Td (Successful updates return the updated record. A missing record returns 404;) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (malformed object identifiers return 400.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 320 475 84 re B
+0.271 0.675 0.486 rg
+60 320 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 380.0 Td (Conflict response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 360.0 Td (Duplicate category and budget keys return 409. Linked category changes or removal) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (also return 409 with a user-readable reason.) Tj ET
+0.914 0.957 0.929 rg
+60 264 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 291.0 Td (The endpoint list and parameters are documented in the project README. There is no API) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 279.0 Td (version prefix or pagination parameter in the current routes.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (22 / 39) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 2593 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (21 / TRANSACTIONS API) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Validated CRUD for financial entries) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The transaction router provides list, create, update, and delete operations. It) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (validates request data before writing to MongoDB.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (GET /api/transactions) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Returns all transactions sorted newest first by date and then identifier; response) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (includes the result count.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (POST /api/transactions) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Requires title, positive amount, valid income/expense type, and category. Optional) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (description is limited to 500 characters and date must parse.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (PUT /api/transactions/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Requires a valid ID and a complete valid transaction payload; applies Mongoose) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (validators and returns the updated row.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (DELETE /api/transactions/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Removes a matching entry and returns a success message. Missing IDs are reported as) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (404; malformed IDs as 400.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Amounts are converted to numbers and title/category strings are trimmed before creation or) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (update.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (23 / 39) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 2436 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (22 / BUDGETS API) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Monthly limits with uniqueness protection) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Budget records are filtered by month and validated around category, month format, and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (positive monetary value.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (GET /api/budgets) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Returns budgets sorted by month descending and category ascending. An optional month) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (query narrows the list.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (POST /api/budgets) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Requires a category of up to 80 characters, valid YYYY-MM, and positive amount.) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (Duplicate category/month records return 409.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (PUT /api/budgets/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Accepts partial updates for category, month, and amount, validates changed fields,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (and returns the updated document.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 320 475 69 re B
+0.271 0.675 0.486 rg
+60 320 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (DELETE /api/budgets/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Deletes a budget by valid ObjectId. A nonexistent record returns 404.) Tj ET
+0.914 0.957 0.929 rg
+60 264 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 291.0 Td (A unique compound index on category and month enforces one budget for each pair at the) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 279.0 Td (database layer.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (24 / 39) Tj ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 50 0 R >>
+endobj
+52 0 obj
+<< /Length 2543 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (23 / CATEGORIES API) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Custom category management) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Category documents distinguish income from expense. The server derives a normalized) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (key from type and lowercased, trimmed name.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (GET /api/categories) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Lists categories by type and name; an optional valid type filter can narrow the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (results.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (POST /api/categories) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Accepts a non-empty name up to 80 characters and income/expense type. Duplicate) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (type/name keys return 409.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (PUT /api/categories/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Can update name or type only if there are no transactions or budgets linked by the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (existing category name.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (DELETE /api/categories/:id) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Blocks removal when records refer to the category; otherwise deletes the custom) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (category.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Category references are stored as strings in transactions and budgets, not as MongoDB) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (ObjectId references. The API checks those strings before edits and deletion.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (25 / 39) Tj ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 52 0 R >>
+endobj
+54 0 obj
+<< /Length 2582 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (24 / REPORTS AGGREGATION PIPELINE) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Build monthly results in the database) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The monthly report route validates the YYYY-MM query, creates UTC calendar boundaries,) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (and executes aggregation queries for the requested period.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Totals pipeline) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Matches transactions in the date range, groups by transaction type, and sums amounts) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (and counts. Net is income minus expenses.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Previous month) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (The route calculates the preceding calendar month and runs the same totals) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (aggregation for comparison.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Category pipeline) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Matches only expenses for the selected month, groups by category, and sorts) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (descending by summed amount.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Trend pipeline) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Groups expenses by UTC YYYY-MM across six months and fills missing months with zero) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (values in the response.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The selected month includes its start boundary and excludes the start of the following month,) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (avoiding overlap between adjacent periods.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (26 / 39) Tj ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 54 0 R >>
+endobj
+56 0 obj
+<< /Length 2289 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (25 / DATA MODEL: TRANSACTIONS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Represent each money event) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Transaction is a Mongoose model with timestamps. A record represents one income or) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (expense item and contains the fields used by search and summaries.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 602 475 69 re B
+0.271 0.675 0.486 rg
+60 602 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (title) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Required trimmed string. The route limits it to 100 characters.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 523 475 69 re B
+0.271 0.675 0.486 rg
+60 523 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 568.0 Td (amount and type) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 548.0 Td (Required positive numeric amount; type is restricted to income or expense.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 444 475 69 re B
+0.271 0.675 0.486 rg
+60 444 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 489.0 Td (category and date) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 469.0 Td (Required trimmed category string; date defaults to the current time if omitted.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 350 475 84 re B
+0.271 0.675 0.486 rg
+60 350 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 410.0 Td (description and timestamps) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 390.0 Td (Description is optional, trimmed, and defaults to an empty string. Mongoose adds) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 375.0 Td (createdAt and updatedAt.) Tj ET
+0.914 0.957 0.929 rg
+60 294 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 321.0 Td (Transaction category is a name string. That keeps the model simple but means renaming a) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 309.0 Td (category would otherwise leave references inconsistent.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (27 / 39) Tj ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 56 0 R >>
+endobj
+58 0 obj
+<< /Length 2601 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (26 / DATA MODEL: BUDGETS AND CATEGORIES) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Plan limits and organize labels) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Budgets and custom categories have separate Mongoose schemas that support their) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (respective constraints and create/update timestamps.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Budget) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Stores category string, YYYY-MM month string, and positive amount. The) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (category/month pair has a unique compound index.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Category) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Stores name, normalized unique key, and income/expense type. Names are trimmed and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (limited to 80 characters.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Derived key) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (A pre-validation hook builds key as type plus lowercased trimmed category name, so) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (case variants of a same-type name conflict.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Relationship strategy) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Transactions and budgets refer to category names. Category routes count linked) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (records to protect edits and deletes.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The three collections are intentionally small and easy to explain. A future migration could) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (use stable category identifiers if rename support is needed.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (28 / 39) Tj ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 58 0 R >>
+endobj
+60 0 obj
+<< /Length 2586 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (27 / VALIDATION AND INTEGRITY) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Reject invalid input close to the API) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The server performs route-level checks and uses schema-level validators for important) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (persisted data constraints.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Transaction checks) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Non-empty title/category; title up to 100 characters; category up to 80; amount) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (greater than zero; allowed type; valid optional date.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Budget checks) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Valid month string, category length, and positive finite amount; duplicate pair) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (surfaced as an explicit conflict.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Category checks) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Allowed type and non-empty name up to 80 characters; duplicate normalized name/type) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (surfaced as conflict.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Reference safety) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Category edit/delete routes count transactions and budgets using the category name) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (and reject changes while references exist.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Client-side checks improve interaction speed, but the server remains responsible for) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (validating requests because clients can be bypassed.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (29 / 39) Tj ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 60 0 R >>
+endobj
+62 0 obj
+<< /Length 2680 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (28 / SECURITY AND PRIVACY) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Use the current build in a controlled) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (setting) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (The repository documents that the current application has no user authentication or) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (per-user data separation. All stored records belong to one shared workspace.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Access control) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (There are no login sessions, user identities, roles, or ownership checks in the) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (current routes.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (Network boundary) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (CORS limits browser origins; CORS is not authentication and does not prevent direct) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (API requests.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Configuration) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (MONGODB_URI and server settings belong in local environment files. Real credentials) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (should not be committed to source control.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (Appropriate use) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (Use a local or test database and avoid exposing the API to untrusted users until) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (authentication and authorization are implemented.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (For a multi-user version, add identity, authorization on every data route, per-user ownership) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (fields and indexes, secrets handling, and deployment controls.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (30 / 39) Tj ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 62 0 R >>
+endobj
+64 0 obj
+<< /Length 2701 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (29 / RESPONSIVE DESIGN AND ACCESSIBILITY) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Make core actions reachable on different) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (screens) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (The interface uses responsive layouts and common semantic controls so it can adapt to) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (narrower screens and assistive technologies.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Responsive navigation) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (Navigation switches between a desktop sidebar and compact horizontal links for small) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (viewports.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (Flexible content) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (Grid-based metric and category cards adapt to viewport width; tables and content) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (panels use wrapping and truncation where appropriate.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Form labels) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (Month controls include visually hidden labels; search and filters have accessible) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (names. Dialogs declare dialog role and modal behavior.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (State feedback) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (Loading messages, role=alert error panels, confirmation prompts, and empty states) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (explain results and actions.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (These are implementation observations, not a formal WCAG conformance claim. A future review) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (should include keyboard, screen reader, contrast, and zoom checks.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (31 / 39) Tj ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 64 0 R >>
+endobj
+66 0 obj
+<< /Length 2347 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (30 / PREREQUISITES AND INSTALLATION) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Prepare the local development environment) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The README identifies the supported Node.js versions and a MongoDB instance as) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (prerequisites for running the complete application.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Node.js) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Use Node.js 20.19 or newer in the 20 line, or 22.12 or newer in the 22 line as) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (specified in the project README.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (MongoDB) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Provide a local or hosted MongoDB database. A sample local URI is shown in) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (server/.env.example.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 414 475 69 re B
+0.271 0.675 0.486 rg
+60 414 4 69 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Backend dependencies) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (From server, install the dependencies defined by package-lock.json and package.json.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 320 475 84 re B
+0.271 0.675 0.486 rg
+60 320 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 380.0 Td (Frontend dependencies) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 360.0 Td (From client, install the Vite and React application dependencies using its package) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (lock.) Tj ET
+0.914 0.957 0.929 rg
+60 276 475 30 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 291.0 Td (The frontend and backend run as separate development processes, typically in two terminals.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (32 / 39) Tj ET
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 66 0 R >>
+endobj
+68 0 obj
+<< /Length 2579 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (31 / CONFIGURATION AND STARTUP) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Connect the client to the API) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (Configuration is environment-based. The supplied example files provide local defaults) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (that are useful for a development demonstration.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Server environment) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Copy server/.env.example to server/.env. Set MONGODB_URI; PORT defaults to 5000 and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (CLIENT_ORIGIN defaults to the local Vite origin.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Start backend) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Run npm run dev from server. Startup waits for a successful MongoDB connection) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (before the server listens.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Client environment) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (The client defaults to http://localhost:5000/api. Set VITE_API_URL in) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (client/.env.local to override it.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Start frontend) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Run npm run dev from client and open http://localhost:5173. Check GET /api/health if) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (the client cannot fetch data.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (If the database is not reachable or MONGODB_URI is missing, the server logs a startup failure) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (and exits rather than serving partial data.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (33 / 39) Tj ET
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 68 0 R >>
+endobj
+70 0 obj
+<< /Length 2616 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (32 / DEMONSTRATION SCENARIOS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (A clear walkthrough for a class) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (presentation) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (A coherent demo uses a few realistic but fictional records and demonstrates how) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (changes propagate through the application.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Scenario A: organize) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (Create one custom expense category and one income category; show how the labels) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (appear in relevant forms.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (Scenario B: record) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (Add a small set of income and expenses with dates in the chosen month; use search,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (type filter, and month filter.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Scenario C: plan) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (Create two monthly category limits, then show the actual spent amounts and progress) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (bars.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (Scenario D: explain) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (Return to Overview and Reports. Connect totals and category visuals to the same) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (records and discuss month comparisons.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (Use fictional sample entries and a test database. Clean presentation data only when it is) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (safe and appropriate for the demo environment.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (34 / 39) Tj ET
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 70 0 R >>
+endobj
+72 0 obj
+<< /Length 2582 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (33 / VERIFICATION AND TEST PLAN) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (How to review the project behavior) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The package manifests expose development, build, and lint commands. They do not) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (declare a dedicated automated unit or integration test framework.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (Static review) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Run the client lint script and inspect the server routes, models, and environment) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (examples for consistency.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Build review) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Run the Vite production build to confirm the frontend compiles into deployable) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (static assets.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (API checks) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (With a test database, exercise valid creates, invalid values, duplicate) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (budget/category conflicts, missing IDs, and delete safeguards.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (UI checks) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (Walk through each page with empty and populated data; check month filters, search,) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (form errors, retry behavior, and narrower viewport layouts.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (This report does not claim that these checks were run. They are a suggested verification plan) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (for future project review.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (35 / 39) Tj ET
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 72 0 R >>
+endobj
+74 0 obj
+<< /Length 2628 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (34 / ERROR STATES AND RELIABILITY) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Keep failures understandable and) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (recoverable) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (The application provides user-facing error information for common failures and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (centralizes unexpected server response handling.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Connection errors) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (Pages explain that the API or MongoDB may be unavailable and provide a retry action) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (where implemented.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (Validation feedback) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (The API returns a specific message for invalid transaction, budget, category, and) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (month inputs.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Missing records) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (Update and delete routes return a 404 when the requested transaction, budget, or) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (category does not exist.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (Unexpected errors) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (The server logs a diagnostic message and sends a generic error message for) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (unanticipated server failures.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (The current design favors clear local behavior. Operational features such as structured logs,) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (request IDs, backups, monitoring, and rate limits are not included.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (36 / 39) Tj ET
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 74 0 R >>
+endobj
+76 0 obj
+<< /Length 2645 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (35 / CURRENT LIMITATIONS) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Understand what the first version does) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 724.0 Td (not provide) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 689.0 Td (A detailed report should state the constraints alongside the features so readers can) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 674.0 Td (evaluate the project appropriately.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 560 475 84 re B
+0.271 0.675 0.486 rg
+60 560 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 620.0 Td (Single shared dataset) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 600.0 Td (No authentication or per-user ownership means the API does not isolate one person's) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 585.0 Td (records from another's.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 466 475 84 re B
+0.271 0.675 0.486 rg
+60 466 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 526.0 Td (No bank connection) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 506.0 Td (Transactions are manually entered; there is no automatic synchronization, statement) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 491.0 Td (import, or receipt attachment.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 372 475 84 re B
+0.271 0.675 0.486 rg
+60 372 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 432.0 Td (Unpaged lists) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 412.0 Td (Transaction listing returns all records and the client filters locally. Large) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 397.0 Td (histories may need server-side filtering and pagination.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 278 475 84 re B
+0.271 0.675 0.486 rg
+60 278 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 338.0 Td (Category string references) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 318.0 Td (Transactions and budgets refer to category names rather than stable IDs; this limits) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 303.0 Td (flexible rename behavior.) Tj ET
+0.914 0.957 0.929 rg
+60 222 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 249.0 Td (These are clear improvement opportunities rather than hidden capabilities. They should guide) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 237.0 Td (the next development stage.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (37 / 39) Tj ET
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 76 0 R >>
+endobj
+78 0 obj
+<< /Length 2620 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (36 / ROADMAP AND CONCLUSION) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (A practical path for future development) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (The foundation supports focused improvements, provided user data protection and) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (maintainability remain central design priorities.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (First: secure access) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (Add authentication and authorization, persist per-user ownership, enforce it in) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (every route, and migrate existing records safely.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Next: scale data access) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (Add server-side month/type/search filters and pagination; index fields used by) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (common date and ownership queries.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Then: improve utility) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (Consider export, recurring entry support, and carefully designed category rename) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (migrations.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Conclusion) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (SpendSmart connects simple transaction entry to category organization, budget) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (awareness, and monthly review in a comprehensible full-stack project.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (The next version should preserve clear entry and reporting while strengthening security,) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (tests, data integrity, and operational readiness.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (38 / 39) Tj ET
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 78 0 R >>
+endobj
+80 0 obj
+<< /Length 2619 >>
+stream
+0.973 0.980 0.973 rg
+0 0 595 842 re f
+0.204 0.506 0.431 rg BT /F2 8.5 Tf 60.0 790.0 Td (APPENDIX / GLOSSARY AND SOURCE MAP) Tj ET
+0.086 0.227 0.204 rg BT /F2 22 Tf 60.0 751.0 Td (Terms and project files) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 716.0 Td (This appendix defines a few terms used in the report and points to the main) Tj ET
+0.322 0.439 0.412 rg BT /F1 10.5 Tf 60.0 701.0 Td (implementation locations in the repository.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 587 475 84 re B
+0.271 0.675 0.486 rg
+60 587 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 647.0 Td (CRUD and REST) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 627.0 Td (CRUD means create, read, update, delete. REST is the resource-oriented HTTP API) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 612.0 Td (style used by the Express routes.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 493 475 84 re B
+0.271 0.675 0.486 rg
+60 493 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 553.0 Td (Aggregation) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 533.0 Td (A MongoDB pipeline transforms matching records into grouped totals and trend rows) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 518.0 Td (without loading the full report dataset into the browser.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 399 475 84 re B
+0.271 0.675 0.486 rg
+60 399 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 459.0 Td (Main files) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 439.0 Td (client/src/App.jsx routes pages; client/src/pages contains feature screens;) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 424.0 Td (client/src/services/api.js wraps HTTP requests.) Tj ET
+1.000 1.000 1.000 rg
+0.878 0.914 0.894 RG 0.7 w 60 305 475 84 re B
+0.271 0.675 0.486 rg
+60 305 4 84 re f
+0.125 0.275 0.235 rg BT /F2 12 Tf 76.0 365.0 Td (Server files) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 345.0 Td (server/server.js configures Express and MongoDB; server/routes contains API logic;) Tj ET
+0.322 0.388 0.369 rg BT /F1 10.2 Tf 76.0 330.0 Td (server/models contains the Mongoose schemas.) Tj ET
+0.914 0.957 0.929 rg
+60 249 475 42 re f
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 276.0 Td (Primary documentation: repository README.md and client/README.md. Project details in this) Tj ET
+0.192 0.357 0.294 rg BT /F1 8.8 Tf 72.0 264.0 Td (report reflect the source available in the workspace at preparation time.) Tj ET
+0.86 0.90 0.88 RG 0.7 w 60 35 m 535 35 l S
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 60.0 21.0 Td (SpendSmart | Project Report) Tj ET
+0.506 0.573 0.549 rg BT /F1 7.5 Tf 490.0 21.0 Td (39 / 39) Tj ET
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 80 0 R >>
+endobj
+82 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 83
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000000482 00000 n 
+0000002011 00000 n 
+0000002147 00000 n 
+0000004854 00000 n 
+0000004990 00000 n 
+0000007738 00000 n 
+0000007874 00000 n 
+0000010653 00000 n 
+0000010791 00000 n 
+0000013436 00000 n 
+0000013574 00000 n 
+0000016330 00000 n 
+0000016468 00000 n 
+0000019046 00000 n 
+0000019184 00000 n 
+0000021845 00000 n 
+0000021983 00000 n 
+0000024708 00000 n 
+0000024846 00000 n 
+0000027469 00000 n 
+0000027607 00000 n 
+0000030253 00000 n 
+0000030391 00000 n 
+0000033058 00000 n 
+0000033196 00000 n 
+0000035885 00000 n 
+0000036023 00000 n 
+0000038578 00000 n 
+0000038716 00000 n 
+0000041397 00000 n 
+0000041535 00000 n 
+0000044159 00000 n 
+0000044297 00000 n 
+0000046982 00000 n 
+0000047120 00000 n 
+0000049751 00000 n 
+0000049889 00000 n 
+0000052425 00000 n 
+0000052563 00000 n 
+0000055203 00000 n 
+0000055341 00000 n 
+0000057994 00000 n 
+0000058132 00000 n 
+0000060667 00000 n 
+0000060805 00000 n 
+0000063451 00000 n 
+0000063589 00000 n 
+0000066078 00000 n 
+0000066216 00000 n 
+0000068812 00000 n 
+0000068950 00000 n 
+0000071585 00000 n 
+0000071723 00000 n 
+0000074065 00000 n 
+0000074203 00000 n 
+0000076857 00000 n 
+0000076995 00000 n 
+0000079634 00000 n 
+0000079772 00000 n 
+0000082505 00000 n 
+0000082643 00000 n 
+0000085397 00000 n 
+0000085535 00000 n 
+0000087935 00000 n 
+0000088073 00000 n 
+0000090705 00000 n 
+0000090843 00000 n 
+0000093512 00000 n 
+0000093650 00000 n 
+0000096285 00000 n 
+0000096423 00000 n 
+0000099104 00000 n 
+0000099242 00000 n 
+0000101940 00000 n 
+0000102078 00000 n 
+0000104751 00000 n 
+0000104889 00000 n 
+0000107561 00000 n 
+0000107699 00000 n 
+trailer
+<< /Size 83 /Root 82 0 R >>
+startxref
+107749
+%%EOF

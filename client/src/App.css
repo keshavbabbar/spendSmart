@@ -1,0 +1,26 @@
+html {
+  min-width: 320px;
+  scroll-behavior: smooth;
+}
+
+button,
+a,
+input,
+select,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid rgb(139 92 246 / 45%);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: rgb(196 181 253 / 70%);
+  color: #1e1b4b;
+}
